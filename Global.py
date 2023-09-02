@@ -1,0 +1,11 @@
+rad = 5 # radius of the ball
+radiusImcrement = 3 
+pos = [100,100] # position of the ball in the image
+OnOff = 1 # -1 means ball is not drawing and 1 means ball is drawing
+timer = 0 # timer for the ball
+timer1 = 0 # timer for the ball
+stumpsTopLeft = (300,300); # stumpsTopLeft is the top left corner of the stumps
+stumpsBottomRight = (380,480); # stumpsBottomRight is the bottom right corner of the stumps
+color = (0,0,255) # color of the ball
+Xdirection = 640 # Xdirection is the width of the image
+Ydirection = 480 # Ydirection is the height of the image
